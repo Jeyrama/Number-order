@@ -30,3 +30,5 @@ function inAscOrder(arr) {
   }
   return true;
 }
+
+// or
